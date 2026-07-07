@@ -1,0 +1,6 @@
+{
+  "name": "Silabus TPQ Interaktif",
+  "description": "Aplikasi Penyusun Silabus dan Kurikulum TPQ Sistematis yang dirancang oleh Guru Berpengalaman (15+ Tahun), terintegrasi dengan Google Docs untuk ekspor cetak.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
